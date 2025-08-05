@@ -17,7 +17,7 @@ Your task is to **fix it**.
 
 ### 🛠️ What You Need to Do:
 
-1. **Find and fix** at least **10 syntax or logic errors** in the code.
+1. **Find and fix ALL errors** in the code.
 2. Make the program **run correctly** and compile without errors.
 3. Thoroughly **test** the following:
    - ✅ View all books
